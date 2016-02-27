@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "haring with the Community vs. Keeping a Job"
+title: "Sharing with the Community vs. Keeping a Job"
 categories: [community,microsoft]
 published: true
 
