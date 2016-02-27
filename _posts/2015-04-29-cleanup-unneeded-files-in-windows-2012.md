@@ -2,8 +2,8 @@
 layout: post
 title: Cleanup Unneeded Files in Windows 2012
 date: 2015-04-29 08:33
-author: chlsmith
-comments: true
+
+
 categories: [Uncategorized]
 ---
 Back in the day, I used to copy the i386 directory from the CD to any computer I stood up.   This allowed me to use these files to install new features, such as printers or whatever, down the road.   Nowadays, these files are stored under c:\windows\winsxs, and this "store" is updated every time a new component or update to a component is installed.   Over time, it grows, and sometimes I just don't have the space to save all that stuff.   Even the files for the features I don't use are there, just in case I want them.

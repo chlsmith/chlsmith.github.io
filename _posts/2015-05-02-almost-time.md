@@ -2,8 +2,8 @@
 layout: post
 title: Almost time!
 date: 2015-05-02 08:24
-author: chlsmith
-comments: true
+
+
 categories: [Uncategorized]
 ---
 Leaving tomorrow for my Chicago trip for MS Ignite.   Can't wait to see what Microsoft has in store for us this year.   I have a very full schedule of seminars, plus there's always the vendor floor with all the booths and sales stuff.

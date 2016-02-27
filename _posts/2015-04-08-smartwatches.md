@@ -2,8 +2,8 @@
 layout: post
 title: SmartWatches
 date: 2015-04-08 09:39
-author: chlsmith
-comments: true
+
+
 categories: [Uncategorized]
 ---
 I just read a pretty decent review of the Apple Watch at http://recode.net/2015/04/08/a-week-on-the-wrist-the-apple-watch-review/ and the watch looks pretty cool.   The only thing I don't really understand is why a person would want to carry two devices (the watch and the required iPhone) in order to get the same functionality that is already in the phone alone.

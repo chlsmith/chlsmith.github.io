@@ -2,8 +2,8 @@
 layout: post
 title: Jumping and Gifts
 date: 2016-02-08 11:18
-author: chlsmith
-comments: true
+
+
 categories: [Uncategorized]
 ---
 Here's a video I've seen on Facebook a few times featuring Steve Harvey, talking about how you need to "jump" to make your life better.    This should be required viewing for everyone.   Ignore the religious parts of this if you want....that's up to you and I don't really know if it's Biblical or not.   The core of this message is the most important message I can give my kids as they grow up.

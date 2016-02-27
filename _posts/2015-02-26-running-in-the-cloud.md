@@ -2,8 +2,8 @@
 layout: post
 title: Running in the Cloud
 date: 2015-02-26 17:11
-author: chlsmith
-comments: true
+
+
 categories: [Uncategorized]
 ---
 I'm starting myself a little public blog.   I've been doing some blogging on my company's (Trek Bicycle) internal blog system for about a year and, while I don't have many people reading it, it's been nice to go back and refer to some of my posts down the road.

@@ -2,8 +2,8 @@
 layout: post
 title: Azure VM DSC Extension
 date: 2015-08-26 08:39
-author: chlsmith
-comments: true
+
+
 categories: [Uncategorized]
 ---
 What a discovery!   I've been trying for weeks to get an automated SQL Server deployment working in Azure, and every time I've gotten close, but never exactly where I wanted.

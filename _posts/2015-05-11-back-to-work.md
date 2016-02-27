@@ -2,8 +2,8 @@
 layout: post
 title: Back to work
 date: 2015-05-11 07:42
-author: chlsmith
-comments: true
+
+
 categories: [Uncategorized]
 ---
 Ignite 2015 is over and it's time to get back to work.   From the conference, as with any conference or show I attend, I've come home with a pretty decent list of to-dos.   This time my list is mostly Azure stuff.   Look into creating a billing report for VMs, fix some runbooks, do some performance testing with SQL Server on different types of Azure VMs, etc.

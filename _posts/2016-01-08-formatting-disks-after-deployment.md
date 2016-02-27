@@ -2,8 +2,8 @@
 layout: post
 title: Formatting Disks After Deployment
 date: 2016-01-08 10:10
-author: chlsmith
-comments: true
+
+
 categories: [Uncategorized]
 ---
 I don't usually post code snippets or whatever, but I think it's time for me to do so.   I have some sweet little ones here and there, and I might as well publish them this way so others can use them if they need them.

@@ -2,8 +2,8 @@
 layout: post
 title: Brain Changes
 date: 2016-02-05 12:41
-author: chlsmith
-comments: true
+
+
 categories: [Uncategorized]
 ---
 I've always heard that as you get older, you start to learn in different ways.   I know that when I was a kid, I could pretty much pick up a book or listen to a lecture and "get it."   I didn't need any hands-on kind of experience to learn how something worked.   They say that adults learn by doing, but that never applied.

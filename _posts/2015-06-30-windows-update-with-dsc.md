@@ -2,8 +2,8 @@
 layout: post
 title: Windows Update with DSC
 date: 2015-06-30 08:26
-author: chlsmith
-comments: true
+
+
 categories: [Uncategorized]
 ---
 Funny thing with the DSC resource kits, provided by Microsoft.   There isn't a resource to configure Automatic Updates on a machine.   There's an update resource there, but it's simply to check for and to install a single update.    Time to write my own!

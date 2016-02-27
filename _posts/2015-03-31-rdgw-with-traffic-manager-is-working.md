@@ -2,8 +2,8 @@
 layout: post
 title: RDGW with Traffic Manager is working!
 date: 2015-03-31 08:15
-author: chlsmith
-comments: true
+
+
 categories: [Uncategorized]
 ---
 Looks like I have RDGW load balancing working now.   I simply had to create two separate VMs on their own cloud services, then enable endpoints on each for ports 80 and 443.   This essentially provides two endpoints that I can use individually, if I want to.   I then set up a Traffic Manager for these endpoints and configured it for round robin load balancing.

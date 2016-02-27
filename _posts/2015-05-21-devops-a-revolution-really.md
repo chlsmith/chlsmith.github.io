@@ -2,8 +2,8 @@
 layout: post
 title: DevOps - A "Revolution"?    (Really??)
 date: 2015-05-21 13:36
-author: chlsmith
-comments: true
+
+
 categories: [Uncategorized]
 ---
 I ventured to a MeetUp with several other DevOps nerds last night.   Since it was one of our first MeetUps, the topic was "What is DevOps?" and was run by a couple of guys from Chef.   Basically, their story was that DevOps is a "cultural revolution in IT."

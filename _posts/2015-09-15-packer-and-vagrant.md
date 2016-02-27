@@ -2,8 +2,8 @@
 layout: post
 title: Packer and Vagrant
 date: 2015-09-15 12:03
-author: chlsmith
-comments: true
+
+
 categories: [Uncategorized]
 ---
 I waslooking to find a way to make my Chef and DSC testing easier, so I asked Steve Murawski for some help.   His suggestion was to use test-kitchen, which I'd heard of, but never started messing with.   To get that working, though, on Windows, you have to have a way to get a machine that you can spin up to test against.   Steve pointed me to a great blog post on how to use the Packer tool with Vagrant and test-kitchen, so you can take care of your gold images and your test deployment.

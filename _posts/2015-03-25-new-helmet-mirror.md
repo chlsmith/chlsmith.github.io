@@ -2,8 +2,8 @@
 layout: post
 title: New Helmet Mirror
 date: 2015-03-25 12:10
-author: chlsmith
-comments: true
+
+
 categories: [Uncategorized]
 ---
 I got myself a new helmet mirror last week.   I just ordered it off of Amazon for about $18, because I was in a hurry to get it and didn't really feel like going to a bike shop for such a small item.

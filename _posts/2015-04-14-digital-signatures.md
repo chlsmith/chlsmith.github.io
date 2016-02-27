@@ -2,8 +2,8 @@
 layout: post
 title: "Digital Signatures"
 date: 2015-04-14 08:35
-author: chlsmith
-comments: true
+
+
 categories: [Uncategorized]
 ---
 A few things about digital signatures:

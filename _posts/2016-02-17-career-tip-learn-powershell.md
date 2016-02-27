@@ -2,8 +2,8 @@
 layout: post
 title: Career Tip: Learn PowerShell
 date: 2016-02-17 10:07
-author: chlsmith
-comments: true
+
+
 categories: [Uncategorized]
 ---
 I don't remember if I've posted on this before or not, but it's worth repeating anyway.   If you are a systems administrator or engineer who works in the Windows environment, you need to learn PowerShell now.   Even if you are primarily a Linux guy, if you work in Windows AT ALL, you need to learn PowerShell.

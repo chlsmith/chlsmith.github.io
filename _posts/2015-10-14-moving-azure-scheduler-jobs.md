@@ -2,8 +2,8 @@
 layout: post
 title: Moving Azure Scheduler Jobs
 date: 2015-10-14 11:36
-author: chlsmith
-comments: true
+
+
 categories: [Uncategorized]
 ---
 Due to some poor prior planning, my company has a bunch of different Azure subscriptions used for different things, and billing is kinda tough.  Months ago, we chose to merge those subscriptions into just two:  one for real stuff that we want to administer and maintain, and another for folks to use for PoCs and so on.

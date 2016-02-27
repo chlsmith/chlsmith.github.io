@@ -2,8 +2,8 @@
 layout: post
 title: FTP FTP FTP
 date: 2015-05-15 22:52
-author: chlsmith
-comments: true
+
+
 categories: [Uncategorized]
 ---
 I had no idea we were so dependent upon FTP anymore.   I'm running 3 FTP servers: one for production use, one for our staging, and one for our devs to have a way to upload/download to our Azure environment without having to go to blob storage.   That's all fine and good, but each of these runs multiple protocols (ftps, ftp, etc.) on different ports, for different user accounts.

@@ -2,8 +2,8 @@
 layout: post
 title: New Things
 date: 2015-03-17 08:07
-author: chlsmith
-comments: true
+
+
 categories: [Uncategorized]
 ---
 I like to think of myself as being open minded and willing to try new things.   As I've gotten older, though, I have become pretty set in my ways.   There are certain things I like and certain things I don't.   Hopefully more likes than dislikes, but that's for Jenny to know, as I sure don't.

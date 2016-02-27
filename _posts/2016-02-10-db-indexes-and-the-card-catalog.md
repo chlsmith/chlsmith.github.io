@@ -2,8 +2,8 @@
 layout: post
 title: DB Indexes and the Card Catalog
 date: 2016-02-10 10:38
-author: chlsmith
-comments: true
+
+
 categories: [Uncategorized]
 ---
 To start, I'm going to say "indexes" instead of "indices", even though that drives me crazy.    I've read "indexes" in too many books now and I guess it's right.

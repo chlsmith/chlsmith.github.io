@@ -2,8 +2,8 @@
 layout: post
 title: Chocolatey and OneGet are AWESOME
 date: 2015-03-20 08:22
-author: chlsmith
-comments: true
+
+
 categories: [Uncategorized]
 ---
 There's a sweet application called Chocolatey (http://chocolatey.org) that allows you to run a single command to install other applications.   On the Chocolatey servers, they have tons of applications stored, such as Firefox, Chrome, Notepad++, and other awesome freebies.   You install the little Chocolatey application on your computer, then to install another program, you simply open a prompt and enter "choco install firefox", or whatever app you want to install.

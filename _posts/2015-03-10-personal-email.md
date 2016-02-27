@@ -2,8 +2,8 @@
 layout: post
 title: Personal Email
 date: 2015-03-10 16:06
-author: chlsmith
-comments: true
+
+
 categories: [Uncategorized]
 ---
 I cannot fathom that someone in any job setting would think that it's okay to use personal email for business.   Every company I've ever worked for has had explicit policy forbidding it.   To think that Hillary Clinton didn't just do that, but had a whole email system in her house to run it, is just inexplicable.

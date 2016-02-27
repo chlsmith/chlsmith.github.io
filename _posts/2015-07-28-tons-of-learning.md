@@ -2,8 +2,8 @@
 layout: post
 title: Tons of Learning
 date: 2015-07-28 16:14
-author: chlsmith
-comments: true
+
+
 categories: [Uncategorized]
 ---
 The last couple of weeks have been a crash course on SQL Server in Azure IaaS.   We moved our North America Multistore database over to Azure and it wasn't the smoothest transition ever.   The old DB server was a small Windows 2003 server running SQL 2005.   Little server, little DB, never ran into any performance problems, etc.   Figured this would be a cake job and just move easily.

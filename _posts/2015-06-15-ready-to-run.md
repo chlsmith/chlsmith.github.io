@@ -2,8 +2,8 @@
 layout: post
 title: Ready to Run
 date: 2015-06-15 12:57
-author: chlsmith
-comments: true
+
+
 categories: [Uncategorized]
 ---
 It's been a few weeks, well, months, since I really have trained for a running race.   My last actual race was the Thanksgiving Day race in Cincinnati last year.   That's hard to believe... not even a 5k since then.

@@ -2,8 +2,8 @@
 layout: post
 title: DSC Adventure
 date: 2015-08-20 21:04
-author: chlsmith
-comments: true
+
+
 categories: [Uncategorized]
 ---
 Man, this PowerShell DSC stuff is such a new way to do things.....for a guy coming into the industry, it has to be intimidating.  It is to me, and I've been at this for 15 years.  Basically, gone are the days where you can get into IT and just click Next a bunch of times, check some boxes, and move on.   Even systems that require a bit more skill, like Group Policy, are a breeze to use compared to DSC.

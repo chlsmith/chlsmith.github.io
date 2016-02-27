@@ -2,8 +2,8 @@
 layout: post
 title: Windows 10 for Fun and Profit
 date: 2015-03-06 11:45
-author: chlsmith
-comments: true
+
+
 categories: [Uncategorized]
 ---
 I'd been having a random issue with my computer for at least the past month.   A couple times per day, a rundll.exe process would spin up and eat about 25% of my CPU.   I tried to figure out where it was coming from, but I couldn't find with with Process Monitor or anything else.   The "image" was inaccessible when I found it in the ProcMon results.   To stop the process, I simply had to kill it from Task Manager, but that was getting old.

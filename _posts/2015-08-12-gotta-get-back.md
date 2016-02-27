@@ -2,8 +2,8 @@
 layout: post
 title: Gotta get back
 date: 2015-08-12 08:28
-author: chlsmith
-comments: true
+
+
 categories: [Uncategorized]
 ---
 I gotta get back to posting on here regularly.   It's really nice to have a place to come back to for information on stuff I've figured out.   So much with the random thoughts stuff...I just need a place for notes.

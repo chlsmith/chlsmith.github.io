@@ -2,8 +2,8 @@
 layout: post
 title: So Long Old VMs
 date: 2015-11-30 13:22
-author: chlsmith
-comments: true
+
+
 categories: [Uncategorized]
 ---
 Strangely, I've always loved the moment when I can kill off a server that I've been taking care of.   Particularly if it means that I've since moved the services to something better or consolidated them to something else.   I just hate having extra overhead out there....

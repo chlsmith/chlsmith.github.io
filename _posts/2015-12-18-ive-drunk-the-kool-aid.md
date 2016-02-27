@@ -2,8 +2,8 @@
 layout: post
 title: I've Drunk the Kool-Aid
 date: 2015-12-18 23:26
-author: chlsmith
-comments: true
+
+
 categories: [Uncategorized]
 ---
 <span style="font-size:medium;">OK.   I admit it.   I doubted that enterprises would really move to “the cloud” as much, if not more, than the next systems guy.   No matter how the numbers were run, on-premise server systems were cheaper.   I could buy a SAN, the server blades, and all of the software licenses I needed for less money, in the long term, than running the same number of virtual servers in the cloud.</span>

@@ -2,8 +2,8 @@
 layout: post
 title: FTP as a Service
 date: 2015-12-30 09:13
-author: chlsmith
-comments: true
+
+
 categories: [Uncategorized]
 ---
 How can FTP as a Service be so hard to find and so damn expensive when I find it?   All I need is a cloud-based storage solution that support FTP with SSL encryption.   This should be so simple for Microsoft to offer in Azure, but, alas, they don't.

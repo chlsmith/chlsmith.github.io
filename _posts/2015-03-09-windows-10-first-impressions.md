@@ -2,8 +2,8 @@
 layout: post
 title: Windows 10 First Impressions
 date: 2015-03-09 12:08
-author: chlsmith
-comments: true
+
+
 categories: [Uncategorized]
 ---
 Folks, I just don't get it.   I don't understand what has been so wrong with Windows 8 since it came out.   The only thing I ever found with it was that the Start Menu was different.   Is that really such a big deal that folks will just flat out not upgrade from Windows 7?   Windows 8.1 put a Start button back, which was actually nice, but the Start Menu was the same, and it still worked.

@@ -2,8 +2,8 @@
 layout: post
 title: More Fun with ARM Templates
 date: 2016-01-25 12:28
-author: chlsmith
-comments: true
+
+
 categories: [Uncategorized]
 ---
 All this time, all I've wanted to do with an Azure Resource Manager (ARM) template was create a bunch of identical computers.   The biggest roadblock I've faced is figuring out how to make the ARM template not one gigantic document with similarly-named resources in it.

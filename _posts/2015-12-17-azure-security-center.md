@@ -2,8 +2,8 @@
 layout: post
 title: Azure Security Center
 date: 2015-12-17 13:24
-author: chlsmith
-comments: true
+
+
 categories: [Uncategorized]
 ---
 Microsoft now has released to Public Preview the Azure Security Center service, and, man, am I impressed.    I love the potential in the product and am just dreamy-eyed at the products people use every day that this thing can replace.

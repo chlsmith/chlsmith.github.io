@@ -2,8 +2,8 @@
 layout: post
 title: Sharing with the Community vs. Keeping a Job
 date: 2016-02-23 09:21
-author: chlsmith
-comments: true
+
+
 categories: [Uncategorized]
 ---
 Microsoft has done a whole lot to open source their tools to the IT professional community and this is awesome.   Some of the stuff that I'm using pretty regularly includes DSC modules that are available on GitHub for basically nothing.   I can actually modify the code and put in pull requests to get my changes put into the actual main product.

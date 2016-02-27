@@ -2,8 +2,8 @@
 layout: post
 title: Lack of Marketing
 date: 2015-03-18 19:29
-author: chlsmith
-comments: true
+
+
 categories: [Uncategorized]
 ---
 Jenny and I dumped cable about 2 years ago.   I bought and installed a small antenna on the roof, ran the coax from it down to our existing cabling, and plugged in the digital converters.    Yes, my TVs were that old.   They are still, but I have one that has the converter built-in.   Fancy.

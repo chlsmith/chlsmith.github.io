@@ -2,8 +2,8 @@
 layout: post
 title: Moneyball with Microsoft
 date: 2015-06-26 19:37
-author: chlsmith
-comments: true
+
+
 categories: [Uncategorized]
 ---
 Just got back from the best "geek event" of my career.   Went to Redmond to meet with the Microsoft Windows team as a representative of "DevOps".    It was like a focus group where we were asked what we wanted, things we struggled with, and so on, and they committed to working on it.   It was amazing.

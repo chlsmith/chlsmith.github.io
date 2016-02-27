@@ -2,8 +2,8 @@
 layout: post
 title: Azure Automation PITA and InlineScript{}
 date: 2015-07-20 12:36
-author: chlsmith
-comments: true
+
+
 categories: [Uncategorized]
 ---
 I have found Azure Automation Runbooks to be a total pain in the ass.   First, I do all of my script work in a text editor or in the Powershell ISE, yet for some reason, I have to use MS's silly Azure Runbook tool to publish things.   Second, I've always had issues getting the runbooks to work right, because I've always just tried to copy and paste from PowerShell into the Workflow.

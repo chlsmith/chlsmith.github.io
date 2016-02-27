@@ -2,8 +2,8 @@
 layout: post
 title: Logon Scripts Not Running
 date: 2015-11-24 13:26
-author: chlsmith
-comments: true
+
+
 categories: [Uncategorized]
 ---
 Just posting to pass this along.    Strange default setting.....logon scripts are pretty darn important in a lot of enterprises.

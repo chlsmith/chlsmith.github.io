@@ -2,8 +2,8 @@
 layout: post
 title: Network Security Groups
 date: 2016-01-08 17:23
-author: chlsmith
-comments: true
+
+
 categories: [Uncategorized]
 ---
 Two posts in a day?   Yes....because I'm afraid if I wait until Monday, I'll forget this stuff.

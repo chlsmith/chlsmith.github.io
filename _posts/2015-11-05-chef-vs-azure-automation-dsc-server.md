@@ -2,8 +2,8 @@
 layout: post
 title: Why I still use Chef.
 date: 2015-11-05 10:08
-author: chlsmith
-comments: true
+
+
 categories: [Uncategorized]
 ---
 Chef has been a pretty good tool for me to use to configure computers in Azure.  I use Hosted Chef, which keeps me from having to run anything inside my environment other than the Chef clients on my computers.   I have some standard recipes and roles that I apply to my machines.

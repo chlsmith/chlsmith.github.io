@@ -2,8 +2,8 @@
 layout: post
 title: The Problems with IT Support
 date: 2016-02-16 13:54
-author: chlsmith
-comments: true
+
+
 categories: [Uncategorized]
 ---
 It goes without question that the biggest headache most knowledge workers deal with is the IT department.   Getting basic stuff done, like setting permissions so you can access a file you need or getting your computer fixed, seem to take forever.   I've worked in both large and small environments, and in almost every case, working with the IT staff has been a pain in the butt.
