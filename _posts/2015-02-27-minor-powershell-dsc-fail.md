@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Minor PowerShell DSC Fail
+title: "Minor PowerShell DSC Fail"
 published: true
 
 categories: [Chef, Powershell, Technical, Technical]
