@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Sharing with the Community vs. Keeping a Job"
-categories: [community,microsoft]
 published: true
-
+categories: [community,microsoft]
 ---
+
 Microsoft has done a whole lot to open source their tools to the IT professional community and this is awesome.   Some of the stuff that I'm using pretty regularly includes DSC modules that are available on GitHub for basically nothing.   I can actually modify the code and put in pull requests to get my changes put into the actual main product.
 
 As a Windows guy, this is totally new to me.   When I find something that I don't like, I can now change it to the way I want it and, if I think others would use it, I can put in a pull request (PR) to get it merged into the real deal.   On the other hand, if I do something that's just for my own use, I can do it without worrying about breaking the real stuff.   It's pretty neat and very useful.  I've been able to take some things. like the Windows Firewall DSC module, and modify it to give me more power over the rules when I use it.   I've even made my own DSC module for configuring Windows Update.
