@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Minor PowerShell DSC Fail
-date: 2015-02-27 15:20
+date: 2015-02-27
 published: true
-
 
 categories: [Chef, Powershell, Technical, Technical]
 ---
