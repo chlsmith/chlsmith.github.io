@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why has the Blog Moved?"
-published: true
+published: false
 categories: [blog]
 tags: [fun, training]
 ---
