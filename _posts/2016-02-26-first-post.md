@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why has the Blog Moved?"
-published: false
+published: true
 categories: [jekyll, test]
 tags: [fun, training]
 
