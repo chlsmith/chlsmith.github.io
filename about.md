@@ -16,3 +16,5 @@ I am a married father of three girls.   When I'm not trucking kids to dance clas
 ### Contact me
 
 [chlsmith@gmail.com](mailto:chlsmith@gmail.com) (This will eventually change to my domain name once I find a place to host my email for cheap/nothing.)
+
+You can always use the links below to hit me up, too. Feedback, comments, or just random nerd talk are all welcomed.
