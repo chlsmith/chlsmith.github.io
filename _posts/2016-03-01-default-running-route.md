@@ -10,4 +10,4 @@ As I just moved about two months ago, I have been figuring out my standard runni
 Another cool part is that in this little town, there are a ton of runners here.  You pretty well have to be able to drop a five-miler or you won't fit in.  On a nice day, this route takes you right through the sections where you're most likely to see smiling suburbanites trying to stay in wine drinking shape.  Just smile, wave, and keep running...
 
 * [Fort Thomas 4-Miler](https://connect.garmin.com/course/embed/11734474)
-* [Soccer Mom Anthem[(https://www.youtube.com/watch?v=xK_XWH7Ryd4)
+* [Soccer Mom Anthem](https://www.youtube.com/watch?v=xK_XWH7Ryd4)
