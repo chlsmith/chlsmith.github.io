@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Changing Cloud Storage Providers
-categories: [personal],[cloud]
+categories: [personal,cloud]
 published: true
 ---
 
