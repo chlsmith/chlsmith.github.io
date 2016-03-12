@@ -6,7 +6,7 @@ categories: [cloud]
 
 Raise your hand if you've ever decided to take a bunch of old computers and repurpose them as a test lab. Not your mousing hand, fool, the other one.   Okay.....
 
-After virtualization became common, did you throw away the old hardware and just spin your test systems up either on your local computer or secretly on some hardware at your office?  Admit it...you did.
+After virtualization became common, did you throw away the old hardware and just spin your test systems up either on your local computer or secretly on your company's virtual hosts?  Admit it...you did.
 
 Now that cloud IaaS is so common and cheap, I bet you're doing that there now. You might even be using some Azure credits for it through your subscription.
 
