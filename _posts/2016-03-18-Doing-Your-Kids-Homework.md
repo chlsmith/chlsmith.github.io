@@ -18,3 +18,7 @@ Parents: Do not do your kid's homework for them!  This is not a freaking contest
 You do it because you can't help yourself. Maybe it's good bonding time or maybe you think you have to show your love with it. Frankly, I think you just do it because you're afraid that your kid won't "fit in", particularly since "every other parent does the same thing".
 
 No, we don't.  Let your kid express herself and actually learn something in the process.
+
+------UPDATE------
+
+She did her little speech today at school and it went great. She was able to explain how she made it, why she put feathers on it, and every other question. None of her answers were, "My Dad did it that way." She was all smiles when I asked her, so I think this worked out.
