@@ -1,9 +1,9 @@
-----
+---
 layout: post
 title: My Experience with Being a Self-Taught Engineer
 categories: [training,opinion]
 published: false
-----
+---
  
 "Engineer". It sounds like a title to me. Like "Knight". A title you have to be trained to earn and have another engineer bestow it upon you with a graphing calculator tap to the shoulders. I'm sure in some fields, it probably is that way, like in nuclear or chemical engineering.  I don't think you can go out, take some books from the library, take a few tests from a company making products for the nuclear power plants, can call yourself a nuclear engineer.
  
