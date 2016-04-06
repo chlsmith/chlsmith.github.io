@@ -2,7 +2,7 @@
 layout: post
 title: Linux Desktop Part 2
 categories: [linux,opinion]
-published: false
+published: true
 ---
 
 A quick report on my two-week-old Linux desktop experiment.  
