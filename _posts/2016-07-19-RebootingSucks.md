@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Just Reboot" Sucks
+title: Rebooting Sucks
 categories: [opinion, tech]
 published: true
 ---
