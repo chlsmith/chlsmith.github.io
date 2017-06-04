@@ -1,0 +1,18 @@
+---
+layout: post
+title: Fitness Thinking
+categories: [opinion]
+published: true
+---
+
+Over the past decade, I've done a lot of physically challenging things.   I've biked a "century", which is 100 miles in a day.  I've done a "metric century", too, which is 100km.   I've run seven full marathons and officially run about 4 half marathons, though while training for the full marathons I've done countless halfs.   (Yeah, I said halfs instead of halves because I think that's how I hear it stated in conversations.)
+
+About a year ago, I got back into the YMCA for their boot camp workouts.  Twice a week, the fitness dude Nick sets up some kind of torturous workout in the gym.  You typically visit stations and do whatever exercise is at the station for a time limit, around 90 seconds, then you rotate to another station.   He'll throw in some group exercises between stations here and there, and if there's no much core work in the stations, or if there's just time left, he'll throw in a 7-minute abs kind of core thing.  Boot camp will bust your ass, and it's almost all body weight work.  Pushups, mountain climbers, crunches, deadlifts with a single kettlebell, medicine ball stuff, etc.  
+
+Most of the people in the class are runners. I think this is because runners like torture and most of us have had overuse injuries from "just running" all the time.  As is true with most fitness classes, it's primarily made up of women, but there have been as many as 5 guys in there before, with a max number of total participants over 20.  Awesome stuff....
+
+Boot camp then led me to try out some of what I like to call "dancing classes".   I haven't done zumba or hip-hop classes, don't get me wrong, but I started taking aerobics classes that involved kickboxing, step aerobics, and so on.  It was really hard to start these, as I am the only guy in these classes, and I've always thought they looked too easy.   Boy was I wrong....those gals are animals.  Over the past 6 months, I've found myself opting for these classes instead of my normal running routines....which is something I never thought would happen.
+
+Running is good for you, as science has shown over and over, but it's very easy to take it too far and just beat yourself up over it.  When I was running all the time, I was sore basically all the time, too.  Nagging injuries are commonplace in running groups, too.   I think this is because we are more "weekend warriors" than "highly trained athletes."  High school kids running cross country, with races no longer than a 5k, are training at 70-80 miles per week.  College runners train even more, and elites often run 120 miles per week.  Most marathoners I know hit 50 miles per week only during peak training seaons, and probably average more like 30 miles per week.  The math doesn't add up....you shouldn't be doing 26.2 miles on barely double that in weekly training, and I think that's the cause of the injuries I see people walking around with.
+
+I've concluded that there are a lot of ways to be "in shape".  Cyclists, swimmers, body builders, walkers, hikers, and even the Zumba-ers are getting their exercise in just as well as the runners.  In many cases, they are probably in better overall shape, with stronger cores, better overall balance, and probably even look better.   (I mean, Michael Phelps certainly has a better body than Meb.)  The best exercise to do is the one you will continue to do because you like it.   I still run 1-2 days a week, but usually around 3-4 miles.  I'll run a 5k here and there, but I think my marathoning days are over.  Back to my "dancing" class in the morning.
