@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Imaging a Computer -->
+title: Imaging a Computer
 categories: [tech][opinion]
 published: true
 ---
