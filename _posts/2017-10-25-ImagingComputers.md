@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Imaging a Computer
-date: 2015-02-26 17:11
 categories: [tech][opinion]
 published: true
 ---
