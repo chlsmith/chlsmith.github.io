@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Imaging a Computer
-categories: [tech][opinion]
+categories: [tech,opinion]
 published: true
 ---
 
