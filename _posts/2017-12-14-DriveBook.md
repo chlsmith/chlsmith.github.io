@@ -5,7 +5,7 @@ categories: [opinion]
 published: true
 ---
 
-Just finished [Drive: The Surprising Trube About What Motivates Us](http://amzn.to/2A9OMTm), so it's time for a quick spewing of my thoughts.
+Just finished [Drive: The Surprising Truth About What Motivates Us](http://amzn.to/2A9OMTm), so it's time for a quick spewing of my thoughts.
 
 The author separates people into two types: Type I and Type X.   Type I folks are the ones who are motivated internally, by a drive to get better at whatever they do.   Type X folks are the ones who are motivated externally, using things like rewards, pay, recognition, etc.  Open source developers, for the most part, have to be Type I, as they aren't getting many external rewards for their work.  Donald Trump, on the other hand, it totally Type X, and is only motivated by money, power, or recognition.  (He was actually the example in the book, before he ever became President.)
 
