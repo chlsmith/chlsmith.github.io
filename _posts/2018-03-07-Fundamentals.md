@@ -5,6 +5,7 @@ categories: [tech]
 published: true
 ---
 
+
 One of the main tenets of the DevOps movement is that automation is key to replacing much of IT operations work.  Things like setting up new servers (particularly in the cloud but at least virtualized ones), doing health checks to make sure servers are configured as they should be, and deploying new software are all targets of this automation.  This automation takes work up front, but makes your servers easily replacable and "cattle", in that instead of worrying about babysitting them, you can just kill them and replace them at will.   Because, I guess people do that with cattle.
 
 In my experience, I find you can only make a portion of the infrastructure "DevOps-y".  There are support systems that must remain in place really throughout the entire lifecycle of your other DevOpsed systems.  Some examples are Active Directory, DNS servers, management servers, jumpboxes, monitoring systems, and even some of the automation systems themselves.  These systems need to be reliable all the time, even while the DevOps-y systems are being killed and recreated.  Fundamentally, these systems should be treated much as they always have been.  They need to be backed up.  They need to be patched.  They need to have antivirus on them and that needs to be updated.  Their logs need to be examined from time to time.  Fundamental IT stuff.  Unsexy stuff.  
