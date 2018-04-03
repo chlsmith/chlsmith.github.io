@@ -7,9 +7,9 @@ published: true
 
 Talk about visions of grandeur and meaningless blathering....I'm going to opine about the recent changes at Microsoft.   I'm nothing to nobody, so take this completely with a grain of salt.
 
-The "demotion" of Windows that has been talked about in the news is that the Windows team has been put underneath another group at Microsoft, and no longer appears to be one of Microsoft's top priorities.  The new Microsoft is directed toward cloud computing and artificial intelligence stuff.  They are working to make user's lives seamless between devices, so you can basically have what you want, when you want it, and on whatever system you want it on.  This spreads across everything, from your Android phone to your XBox to your Windows laptop.  Sounds really cool and forward thinking.
+The "demotion" of Windows that has been talked about in the news makes it seem that Windows no longer appears to be one of Microsoft's top priorities.  The new Microsoft is directed toward cloud computing and artificial intelligence stuff.  They are working to make user's lives seamless between devices, so you can basically have what you want, when you want it, and on whatever system you want it on.  This spreads across everything, from your Android phone to your XBox to your Windows laptop.  All of that is to be powered by the cloud and by AI.  Sounds really cool and forward thinking, but I'm skeptical.
 
-My question is this: How can they make this happen when all they currently have are "also-rans" in each of the areas where they want to focus their energy?
+My question is this: How can they make this happen when all they currently have are "also-rans" in each of the areas where they want to focus their energy?  The reality is, Microsoft NEEDS data to make everything work.
 
 1. In the cloud, Microsoft's Azure is a clear second to Amazon.   Google Cloud is now picking up, too, and is probably going to threaten Azure within the next few years.   
 
