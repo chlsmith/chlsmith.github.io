@@ -34,3 +34,6 @@ I don't know that I'm right and I know that even as an also-ran, Microsoft is go
 Windows, both on the client and server, is a pretty darn nice operating system.  The Windows Subsystem for Linux makes for an awesome case to use it as a cross-platform system for development. Windows 2019 is reported to allow Linux and Windows containers side-by-side!  PowerShell has been made cross-platform capable, meaning admins can do everything just with PowerShell!  These are AWESOME developments for Windows and Microsoft, and are absolutely what users want.  Users aren't all developers, though, and things like Paint and pen-based input are critical, too, and MS is doing a great job with those on Windows 10.  
 
 That's why I don't see where Windows deserves a demotion.  Windows is still largely the operating system used everywhere and in Windows 10 they finally have what feels like an amazing product!  Windows is not finished, though, as users will always change and want more.  It needs to be nurtured and developed to be even better.   Without it, as shown in all of my points above, I just don't see Microsoft being able to get the data they need to be THE winner in AI and Cloud.  
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEzOTYwMTI4MDRdfQ==
+-->
