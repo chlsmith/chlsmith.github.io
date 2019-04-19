@@ -4,7 +4,7 @@ title: Beer Choices
 categories: [opinion,beer]
 published: true
 ---
-Holy crap it's amost been a year since I posted anything new!  Why am I posting now?   I don't know...I just had the urge.
+Holy crap it's almost been a year since I posted anything new!  Why am I posting now?   I don't know...I just had the urge.
 
 I was just at my favorite liquor store, [DEPs](https://depsfinewine.com), and it was the usual Friday sample day.   They almost always have some beer company doing tastings at the front on a table.  Today's was from Dogfish Head, and all I can say is that it's one of the best general breweries out there.  You simply cannot go wrong with their stuff.
 
